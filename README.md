@@ -1,1 +1,1 @@
-# Moved to: [Eddaswap Labs](https://github.com/eddaswap-labs/bifrost-ton-contracts)
+# Moved to: [Synswap Labs](https://github.com/synswap-labs/ton-contracts)
